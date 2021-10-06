@@ -1,0 +1,951 @@
+PS C:\Dropbox\study\python> & C:/Python/Python39/python.exe c:/Dropbox/study/python/crypto/crypto_profilio.py
+{
+  "data": [
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "3.26137933",
+        "currency": "ETH"
+      },
+      "created_at": "2021-05-04T00:18:11Z",
+      "currency": "ETH",
+      "id": "e5666a3f-6eb9-5c29-967b-40800ad55037",
+      "name": "ETH Wallet",
+      "native_balance": {
+        "amount": "9904.63",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/e5666a3f-6eb9-5c29-967b-40800ad55037",
+      "type": "wallet",
+      "updated_at": "2021-09-20T13:19:36Z"
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "LPT"
+      },
+      "created_at": null,
+      "currency": "LPT",
+      "id": "LPT",
+      "name": "LPT Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/LPT",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "MLN"
+      },
+      "created_at": null,
+      "currency": "MLN",
+      "id": "MLN",
+      "name": "MLN Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/MLN",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "YFII"
+      },
+      "created_at": null,
+      "currency": "YFII",
+      "id": "YFII",
+      "name": "YFII Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/YFII",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "ICP"
+      },
+      "created_at": null,
+      "currency": "ICP",
+      "id": "ICP",
+      "name": "ICP Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/ICP",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "CTSI"
+      },
+      "created_at": null,
+      "currency": "CTSI",
+      "id": "CTSI",
+      "name": "CTSI Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/CTSI",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "TRB"
+      },
+      "created_at": null,
+      "currency": "TRB",
+      "id": "TRB",
+      "name": "TRB Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/TRB",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "POLY"
+      },
+      "created_at": null,
+      "currency": "POLY",
+      "id": "POLY",
+      "name": "POLY Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/POLY",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "MIR"
+      },
+      "created_at": null,
+      "currency": "MIR",
+      "id": "MIR",
+      "name": "MIR Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/MIR",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.000000000",
+        "currency": "RLC"
+      },
+      "created_at": null,
+      "currency": "RLC",
+      "id": "RLC",
+      "name": "RLC Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/RLC",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.000000000",
+        "currency": "SOL"
+      },
+      "created_at": null,
+      "currency": "SOL",
+      "id": "SOL",
+      "name": "SOL Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/SOL",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.0000000000",
+        "currency": "DOT"
+      },
+      "created_at": null,
+      "currency": "DOT",
+      "id": "DOT",
+      "name": "DOT Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/DOT",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "GTC"
+      },
+      "created_at": null,
+      "currency": "GTC",
+      "id": "GTC",
+      "name": "GTC Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/GTC",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "AMP"
+      },
+      "created_at": null,
+      "currency": "AMP",
+      "id": "AMP",
+      "name": "AMP Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/AMP",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "SHIB"
+      },
+      "created_at": null,
+      "currency": "SHIB",
+      "id": "SHIB",
+      "name": "SHIB Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/SHIB",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "CHZ"
+      },
+      "created_at": null,
+      "currency": "CHZ",
+      "id": "CHZ",
+      "name": "CHZ Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/CHZ",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "KEEP"
+      },
+      "created_at": null,
+      "currency": "KEEP",
+      "id": "KEEP",
+      "name": "KEEP Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/KEEP",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "QNT"
+      },
+      "created_at": null,
+      "currency": "QNT",
+      "id": "QNT",
+      "name": "QNT Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/QNT",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "BOND"
+      },
+      "created_at": null,
+      "currency": "BOND",
+      "id": "BOND",
+      "name": "BOND Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/BOND",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "RLY"
+      },
+      "created_at": null,
+      "currency": "RLY",
+      "id": "RLY",
+      "name": "RLY Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/RLY",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "CLV"
+      },
+      "created_at": null,
+      "currency": "CLV",
+      "id": "CLV",
+      "name": "CLV Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/CLV",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "FARM"
+      },
+      "created_at": null,
+      "currency": "FARM",
+      "id": "FARM",
+      "name": "FARM Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/FARM",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "MASK"
+      },
+      "created_at": null,
+      "currency": "MASK",
+      "id": "MASK",
+      "name": "MASK Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/MASK",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "FET"
+      },
+      "created_at": null,
+      "currency": "FET",
+      "id": "FET",
+      "name": "FET Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/FET",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "PAX"
+      },
+      "created_at": null,
+      "currency": "PAX",
+      "id": "PAX",
+      "name": "PAX Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/PAX",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "ACH"
+      },
+      "created_at": null,
+      "currency": "ACH",
+      "id": "ACH",
+      "name": "ACH Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/ACH",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "PLA"
+      },
+      "created_at": null,
+      "currency": "PLA",
+      "id": "PLA",
+      "name": "PLA Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/PLA",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "RAI"
+      },
+      "created_at": null,
+      "currency": "RAI",
+      "id": "RAI",
+      "name": "RAI Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/RAI",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "TRIBE"
+      },
+      "created_at": null,
+      "currency": "TRIBE",
+      "id": "TRIBE",
+      "name": "TRIBE Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/TRIBE",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "ORN"
+      },
+      "created_at": null,
+      "currency": "ORN",
+      "id": "ORN",
+      "name": "ORN Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/ORN",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "IOTX"
+      },
+      "created_at": null,
+      "currency": "IOTX",
+      "id": "IOTX",
+      "name": "IOTX Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/IOTX",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "UST"
+      },
+      "created_at": null,
+      "currency": "UST",
+      "id": "UST",
+      "name": "UST Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/UST",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "QUICK"
+      },
+      "created_at": null,
+      "currency": "QUICK",
+      "id": "QUICK",
+      "name": "QUICK Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/QUICK",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "AXS"
+      },
+      "created_at": null,
+      "currency": "AXS",
+      "id": "AXS",
+      "name": "AXS Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/AXS",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "REQ"
+      },
+      "created_at": null,
+      "currency": "REQ",
+      "id": "REQ",
+      "name": "REQ Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/REQ",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "WLUNA"
+      },
+      "created_at": null,
+      "currency": "WLUNA",
+      "id": "WLUNA",
+      "name": "WLUNA Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/WLUNA",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "TRU"
+      },
+      "created_at": null,
+      "currency": "TRU",
+      "id": "TRU",
+      "name": "TRU Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/TRU",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "RAD"
+      },
+      "created_at": null,
+      "currency": "RAD",
+      "id": "RAD",
+      "name": "RAD Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/RAD",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "DDX"
+      },
+      "created_at": null,
+      "currency": "DDX",
+      "id": "DDX",
+      "name": "DDX Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/DDX",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "RGT"
+      },
+      "created_at": null,
+      "currency": "RGT",
+      "id": "RGT",
+      "name": "RGT Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/RGT",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "XYO"
+      },
+      "created_at": null,
+      "currency": "XYO",
+      "id": "XYO",
+      "name": "XYO Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/XYO",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "COTI"
+      },
+      "created_at": null,
+      "currency": "COTI",
+      "id": "COTI",
+      "name": "COTI Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/COTI",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "ZEN"
+      },
+      "created_at": null,
+      "currency": "ZEN",
+      "id": "ZEN",
+      "name": "ZEN Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/ZEN",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "BTRST"
+      },
+      "created_at": null,
+      "currency": "BTRST",
+      "id": "BTRST",
+      "name": "BTRST Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/BTRST",
+      "type": "wallet",
+      "updated_at": null
+    },
+    {
+      "allow_deposits": true,
+      "allow_withdrawals": true,
+      "balance": {
+        "amount": "0.00000000",
+        "currency": "AGLD"
+      },
+      "created_at": null,
+      "currency": "AGLD",
+      "id": "AGLD",
+      "name": "AGLD Wallet",
+      "native_balance": {
+        "amount": "0.00",
+        "currency": "USD"
+      },
+      "primary": false,
+      "resource": "account",
+      "resource_path": "/v2/accounts/AGLD",
+      "type": "wallet",
+      "updated_at": null
+    }
+  ]
+}
+PS C:\Dropbox\study\python> 
